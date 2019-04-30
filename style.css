@@ -1,0 +1,18 @@
+#box1 {
+	border: 2px solid black;
+	height: 50 px;
+	width:50%;
+	font-family: 'Exo 2', sans-serif;
+
+}
+#box2 {
+	border: 2px solid black;
+	width:40%;
+	font-family: 'Pacifico', cursive;
+}
+#box3 {
+	border: 2px solid black;
+	width:30%;
+	font-family: 'Luckiest Guy', cursive;
+}
+p { font-family: 'Exo 2', sans-serif; }
